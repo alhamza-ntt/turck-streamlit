@@ -1,0 +1,11 @@
+# Core packages
+streamlit
+pandas
+azure-identity
+
+# Azure AI Agent & Project SDKs
+azure-ai-agents
+azure-ai-resources
+azure-ai-projects  
+
+python-dotenv

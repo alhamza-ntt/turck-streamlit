@@ -135,8 +135,8 @@ def display_json_as_table(json_data):
         )
 
 # Streamlit App
-#st.set_page_config(page_title="TURCK Assistant", layout="wide")
-st.title("TURCK Assistant")
+#st.set_page_config(page_title="Intelligent Search Assistant ", layout="wide")
+st.title("Intelligent Search Assistant")
 
 # Read CSV
 df = pd.read_csv("extracted_data.csv").fillna('')
